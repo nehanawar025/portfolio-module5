@@ -1,0 +1,88 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 200px 45px;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    text-decoration: none;
+
+}
+
+.nav-link{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+
+    
+}
+
+/* Header */
+.header{
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
+
+
+
+/* Banner Styles */
+
+.banner{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 35px 0 230px;
+}
+
+.ban-content{
+    max-width: 585px;
+    max-height: 356px;
+}
+.ban-greet{
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.ban-title{
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.ban-desc{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.hero-button{
+    margin-top: 30px;
+}
+
+.btn-download{
+    border: none;
+    width: 200px;
+    height: 64px;
+    margin-right: 30px;
+}
+
+.btn-contact{
+    width: 160px;
+    height: 64px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+}
+
+.ban-img{
+    width: 584px;
+    height: 676px;
+}
