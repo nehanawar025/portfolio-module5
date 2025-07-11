@@ -1,0 +1,22 @@
+
+/* About Me */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+.about-me{
+    background-color: #FFF8F3;
+    margin-top: 130px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 130px 150px;
+}
+
+.abt-items{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}

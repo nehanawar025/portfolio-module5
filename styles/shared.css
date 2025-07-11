@@ -33,4 +33,19 @@
 }
 
 
+.sect-title{
+    font-size: 35px;
+    font-weight: 700;
+}
 
+.reg-weight{
+    font-weight: 400px;
+}
+
+.primary-desc{
+    font-size: 18px;
+}
+
+.sec-desc{
+    font-size: 16px;
+}
