@@ -32,6 +32,9 @@
     border-radius: 5px;
 }
 
+.txt-center{
+    text-align: center;
+}
 
 .sect-title{
     font-size: 35px;
@@ -42,10 +45,18 @@
     font-weight: 400px;
 }
 
+.bold-weight{
+    font-weight: bold;
+}
+
 .primary-desc{
     font-size: 18px;
+    color: #757575;
+
 }
 
 .sec-desc{
     font-size: 16px;
+    color: #757575
 }
+
